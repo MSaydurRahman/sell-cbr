@@ -1,0 +1,57 @@
+/* commn styles */
+.decoration a{
+    text-decoration: none;
+    color: white;
+}
+/* nav styles */
+#login{
+    background-color: #E76F51;
+    height: 44px;
+    width: 91px;
+}
+#Purchase{
+    background-color: #E76F51;
+    height: 44px;
+    width: 168px;
+}
+/* main part  */
+.best-bike-collection{
+    color: #E76F51;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
+/* leatest news  */
+#read-more-1{
+    background-color: #E76F51;
+    border: 1ps solid #E76F51;
+}
+#read-more-2-3{
+    color:#E76F51;
+    background-color: white;
+    border: 1ps solid white;
+}
+/* happy clints */
+.clint-says{
+    color:#E76F51;
+}
+.name{
+    color: #23a5f0;
+}
+/* question */
+.questions{
+    color:#E76F51;
+}
+/* XDiavel */
+.XDiavel{
+    font-size: xx-large;
+    font-weight: 900;
+    color: rgba(8, 8, 8, 0.39);
+}
+.bold{
+    font-weight: 200;
+}
+/* footer */
+footer{
+    background-color: black;
+}
